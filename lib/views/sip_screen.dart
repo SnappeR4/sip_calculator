@@ -15,7 +15,6 @@ class SIPScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('SIP Calculator'),
-        backgroundColor: Colors.white,
         centerTitle: true,
         elevation: 0,
       ),
